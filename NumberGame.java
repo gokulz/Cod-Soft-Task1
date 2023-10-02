@@ -43,7 +43,7 @@ public class NumberGame{
             System.out.println("Out of choices Oops ");
           }
 
-          System.out.println("Do you want to play again? Yes or no");
+          System.out.println("Do you want to play again? Yes or No");
           play = sc.next().toLowerCase();
        } 
 
